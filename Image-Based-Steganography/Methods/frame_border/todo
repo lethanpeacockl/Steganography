@@ -1,0 +1,5 @@
+begin by creating a 1d array of the hidden photo
+
+inject rgb as new 3 channel column into hide in me photo 
+
+first easy step is just to insert single column vector into the hide in me image and view results 

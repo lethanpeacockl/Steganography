@@ -1,0 +1,8 @@
+apparently when things like photo shop create png they encode a color table and at bare minimum a gradient for something like grayscale but in any color not just black to white or white to black
+
+internet says if you chsnge this color table to two of same colornyou get a png that is just a single color but it can be restored by reverting back to the original color table like 0-255
+
+example i saw was photoshop changing color table of gradient from values of (0,0,0) to (0,0,0) or example (255,255,255) to (255,255,255) establishing the lac of gradient
+
+
+testing credential.helper store so i don't have to keep getting password for authentication

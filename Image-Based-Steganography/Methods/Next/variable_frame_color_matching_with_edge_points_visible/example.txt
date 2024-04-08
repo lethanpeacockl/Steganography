@@ -1,0 +1,10 @@
+so instead of making a column vector or padding an original image with the mutated image as a border
+inject the image as a border in a frame in the image trying to match the color values to the cascading frame
+except at edge points
+
+best case scenario for hiding:
+    only two edge pixels show up as a reference
+
+    by having two oposing edge corners like top left and bottom right we get 
+    the resolution and coordinates of frame for reconstruction
+    see example_image.png

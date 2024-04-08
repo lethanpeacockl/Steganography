@@ -1,0 +1,5 @@
+TODO:
+
+cleanup beginning attempt at hiding smiley in first column of flower image
+
+setup simple example of inserting smiley into border

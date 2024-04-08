@@ -1,0 +1,8 @@
+so looking at the previously commited example its pretty obvious and there is no map
+just explicit pixel grabing from a single column
+
+
+if you injected a map into the alpha channel of a png you would get even less image
+discoloration most likely...
+
+work on example of hiding image inside the alpha channel of another image

@@ -1,0 +1,5 @@
+example:  use same methods as before : pixel mapping various methods
+
+but new hiding place: exmaple create simulation of ground and orbiting moon:
+
+hide image to decipher on the orbiting body but require zoom to see it and specific angle camera in 3d simulation
