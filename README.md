@@ -1,2 +1,3 @@
 # Steganography
- repo for creating and detecting/breaking steganographic injections
+
+repo for steganographic techniques of hiding data and finding hidden data
